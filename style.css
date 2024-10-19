@@ -18,7 +18,7 @@
     color: white;
     text-decoration: none;
     text-align: center;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 15px;
     font-weight: 600;
     line-height: 20px;
@@ -28,7 +28,7 @@
 
   .logo {
     height: 40px;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 20px;
     font-weight: 700;
     line-height: 20px;
@@ -78,7 +78,7 @@
   }
 
   .soft-dev {
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 32px;
     font-weight: 500;
     line-height: 44px;
@@ -87,7 +87,7 @@
   }
 
   .para {
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
@@ -127,7 +127,7 @@
   }
 
   .about-para {
-    font-family: 'Inter';
+    font-family: 'inter tight';
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -164,7 +164,7 @@
 
   .head-aboutme {
     color: white;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 32px;
     font-weight: 700;
     line-height: 44px;
@@ -173,7 +173,7 @@
   }
 
   .Text-aboutme {
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 22px;
     font-weight: 400;
     line-height: 42.67px;
@@ -201,7 +201,7 @@
 
   .footer-para {
     padding: 80px 20px 40px 120px;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 32px;
     font-weight: 700;
     line-height: 44px;
@@ -224,7 +224,7 @@
     text-align: left;
     text-indent: 25px;
     font-size: 15px;
-    font-family: Inter;
+    font-family: inter tight;
     font-weight: 400;
     background-color: #fff;
     color: #777;
@@ -242,7 +242,7 @@
     line-height: 24px;
     background-color: #fbf8f7;
     color: #3c3a39;
-    font-family: inter;
+    font-family: inter tight;
   }
 
   .form-btn {
@@ -339,7 +339,7 @@
   }
 
   .work-para {
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -360,7 +360,7 @@
     padding: 10px;
     background-color: #fff;
     border: 1px solid #8993a4;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 15px;
     font-weight: 500;
     line-height: 20px;
@@ -373,7 +373,7 @@
     height: 48px;
     gap: 10px;
     background: #ff6b00;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 17px;
     font-weight: 700;
     line-height: 24px;
@@ -387,8 +387,7 @@
   .project-container {
     display: flex;
     flex-wrap: wrap;
-    margin-left: 165px;
-    margin: 30px 0 100px 155px;
+    margin: 30px 0px 100px 165px;
   }
 
   .projects {
@@ -435,7 +434,7 @@
     height: 99px;
     margin-bottom: 0;
     padding: 0 0 0 14px;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -449,7 +448,7 @@
     margin-left: 8px;
     background-color: #77797d;
     border: 1px solid #8993a4;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 15px;
     font-weight: 500;
     line-height: 20px;
@@ -469,7 +468,7 @@
     background-color: #ff6b00;
     color: #fff;
     border: none;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 17px;
     font-weight: 700;
     line-height: 24px;
@@ -614,7 +613,7 @@
   }
 
   .about-para {
-    font-family: 'Inter';
+    font-family: 'inter tight';
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -649,7 +648,7 @@
 
   .head-aboutme {
     color: white;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 32px;
     font-weight: 700;
     line-height: 44px;
@@ -663,7 +662,7 @@
   }
 
   .Text-aboutme {
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 22px;
     font-weight: 400;
     line-height: 42.67px;
@@ -690,7 +689,7 @@
 
   .footer-para {
     padding: 50px 24px 40px 24px;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 32px;
     font-weight: 700;
     line-height: 44px;
@@ -715,7 +714,7 @@
     text-align: left;
     text-indent: 25px;
     font-size: 15px;
-    font-family: Inter;
+    font-family: inter tight;
     font-weight: 400;
     background-color: #fff;
     color: #777;
@@ -733,7 +732,7 @@
     line-height: 24px;
     background-color: #fbf8f7;
     color: #3c3a39;
-    font-family: inter;
+    font-family: inter tight;
   }
 
   .form-btn {
@@ -824,7 +823,7 @@
   }
 
   .work-para {
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -851,7 +850,7 @@
     padding: 10px;
     background-color: #fff;
     border: 1px solid #8993a4;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 15px;
     font-weight: 500;
     line-height: 20px;
@@ -864,7 +863,7 @@
     height: 48px;
     gap: 10px;
     background: #ff6b00;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 17px;
     font-weight: 700;
     line-height: 24px;
@@ -906,7 +905,7 @@
     width: 301px;
     height: 99px;
     padding: 0 0 0 14px;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -920,7 +919,7 @@
     margin-left: 8px;
     background-color: #77797d;
     border: 1px solid #8993a4;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 15px;
     font-weight: 500;
     line-height: 20px;
@@ -940,7 +939,7 @@
     background-color: #ff6b00;
     color: #fff;
     border: none;
-    font-family: Inter;
+    font-family: inter tight;
     font-size: 17px;
     font-weight: 700;
     line-height: 24px;
